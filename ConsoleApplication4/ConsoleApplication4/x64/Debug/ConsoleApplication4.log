@@ -1,0 +1,12 @@
+﻿  ConsoleApplication4.cpp
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(75,41): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(101,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(104,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(107,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(111,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(114,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(117,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(121,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(124,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Кирилл\source\repos\ConsoleApplication4\ConsoleApplication4\ConsoleApplication4.cpp(127,21): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication4.vcxproj -> C:\Users\Кирилл\source\repos\ConsoleApplication4\x64\Debug\ConsoleApplication4.exe
